@@ -6,3 +6,24 @@
 body {
     background-color: cadetblue;
 }
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 200%;
+}
+
+article {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+}
